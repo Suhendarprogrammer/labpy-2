@@ -1,6 +1,6 @@
 # Menentukan bilangan terbesar dari tiga bilangan
 
-## ---------------------------------------------------------------
+##------------------------------------------------------------------------------
 
 1. Mulai
 
@@ -20,9 +20,9 @@ lebih besar dari bilangan c maka b adalah bilangan terbesar.
 
 ![flowcart](https://user-images.githubusercontent.com/45907948/52679012-3098ca00-2f66-11e9-94e4-3b9222796247.png)
 
-## ========== Eksekusi ========== 
+## **Eksekusi :** 
 
-** 1. Program yang dibuat dari Flowcart di atas **
+**1. Program yang dibuat dari Flowcart di atas**
 
 ![eksekusi 
 keseluruhan](https://user-images.githubusercontent.com/45907948/52679112-97b67e80-2f66-11e9-9214-e6cad2ae8955.png)
@@ -49,6 +49,6 @@ pertama](https://user-images.githubusercontent.com/45907948/52679115-984f1500-2f
 ![hasil 
 kedua](https://user-images.githubusercontent.com/45907948/52679114-984f1500-2f66-11e9-9dc4-efd0a74cadda.png)
 
+**Demikian penjelasan program menghitung bilangan terbesar dari tiga 
+bilangan ini, semoga bermanfaat.**
 
-## Demikian penjelasan program menghitung bilangan terbesar dari tiga 
-bilangan ini, semoga bermanfaat.. 
