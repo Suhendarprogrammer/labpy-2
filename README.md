@@ -1,6 +1,6 @@
 # Menentukan bilangan terbesar dari tiga bilangan
 
-### ---------------------------------------------
+### ---------------------------------------------------------------------
 
 1. Mulai
 
@@ -18,7 +18,7 @@ lebih besar dari bilangan c maka b adalah bilangan terbesar.
 
 # Flowcart menentukan bilangan terbesar dari tiga bilangan 
 
-# ![Github logo](Flowcart.png)
+![flowcart](https://user-images.githubusercontent.com/45907948/52679012-3098ca00-2f66-11e9-94e4-3b9222796247.png)
 
 ## ** Eksekusi : ** 
 
